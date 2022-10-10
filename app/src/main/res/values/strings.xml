@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ProfileTest</string>
+    <string name="menu_profile">Profile</string>
+    <string name="menu_list">MU FC</string>
+    <string name="menu_setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
